@@ -1,0 +1,22 @@
+
+.err{
+  color: red;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-login {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.card-max-width {
+  max-width: 250px;
+}
