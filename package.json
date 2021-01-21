@@ -1,0 +1,8 @@
+{
+  "name": "lsst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:khosokawa0716/lsst.git",
+  "author": "細川浩太 <k.hosokawa0716@gmail.com>",
+  "license": "MIT"
+}
